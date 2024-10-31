@@ -2,3 +2,4 @@ logging
 geopandas
 matplotlib
 PyQt5
+fiona
