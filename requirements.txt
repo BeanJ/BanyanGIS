@@ -1,0 +1,4 @@
+logging
+geopandas
+matplotlib
+PyQt5
